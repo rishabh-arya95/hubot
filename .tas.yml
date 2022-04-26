@@ -13,4 +13,5 @@ preMerge:
 preRun: 
   command: 
     - "npm i"
+parallelism: 2
 version: 1.0
