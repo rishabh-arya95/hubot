@@ -12,5 +12,5 @@ preMerge:
     - test/*.js
 preRun: 
   command: 
-    - "npm ci"
+    - "npm i"
 version: 1.0
