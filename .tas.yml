@@ -5,7 +5,6 @@ postMerge:
     - test/*.js
 postRun: 
   command: 
-    - "node --version"
     - "echo 'Completed'"
 preMerge: 
   pattern: 
