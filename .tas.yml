@@ -5,7 +5,7 @@ postMerge:
     - test/*.js
 postRun: 
   command: 
-    - "echo 'Completed'"
+    - "echo 'Completed Build'"
 preMerge: 
   pattern: 
     - test/*.js
